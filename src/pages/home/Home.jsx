@@ -41,7 +41,7 @@ const Home = () => {
           {/* Profile Image */}
           <div className="flex justify-center md:justify-end">
             <img
-              src="../../../public/image/uni fr photo.jpg"
+              src="../../../public/image/photo.jpg"
               alt="Mohammad Maiz Uddin"
               className="w-80 h-auto rounded-xl border shadow-lg object-cover"
             />
