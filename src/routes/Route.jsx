@@ -8,6 +8,7 @@ import Contact from '../pages/contact/Contact';
 import Tool from '../pages/tool/Tool';
 import Project from '../pages/project/Project';
 import About from '../pages/about/About';
+import leadership from '../pages/leadership/leadership';
 
 export const router = createBrowserRouter([
   {
@@ -33,6 +34,10 @@ export const router = createBrowserRouter([
       {
         path: 'about',
         Component:About
+      },
+      {
+        path: 'leadership',
+        Component:leadership
       }
     ]
   },

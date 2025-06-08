@@ -1,4 +1,6 @@
-import React from 'react';
+import React from 'react'
+import { Link } from 'react-router';
+
 
 const Footer = () => {
   return (
@@ -7,8 +9,8 @@ const Footer = () => {
         <h6 className="footer-title">Contact</h6>
         <p>Mohammad Maiz Uddin</p>
         <p>Managing Director, Vector Classes</p>
-        <p>Email: maiz@example.com</p>
-        <p>Phone: +880-1234-567890</p>
+        <p>Email: mduddin@gmail.com</p>
+        <p>Phone: +8801793993563</p>
       </div>
       <nav>
         <h6 className="footer-title">Connect</h6>
@@ -39,7 +41,8 @@ const Footer = () => {
       </nav>
       <nav>
         <h6 className="footer-title">Skills</h6>
-        <p>Leadership</p>
+        <Link to="leadership">Leadership</Link>
+     
         <p>Communication</p>
         <p>Web Development</p>
       </nav>

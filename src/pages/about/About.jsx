@@ -17,7 +17,7 @@ const About = () => {
             I’ve also worked as a <span class="font-medium text-teal-600">Facebook Ads Expert</span>, creating high-performing campaigns and crafting visual content that engages. My unique blend of technical and creative skills helps me design smooth and modern UI experiences.
           </p>
           <p class="text-lg text-gray-700 leading-relaxed">
-            I love building responsive websites and collaborating with creative teams. I’m excited about opportunities to grow, especially at innovative agencies like <span class="font-semibold text-gray-900">Softvence</span>.
+            I love building responsive websites and collaborating with creative teams. 
           </p>
         </div>
   
